@@ -1,0 +1,30 @@
+{
+  "name": "Korhanola",
+  "title": "Korhanola",
+  "version": "1.0",
+  "description": "Korhanola rules",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gauthier-huyghe/korhanola.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "Korhanola"
+  ],
+  "devDependencies": {
+  },
+  "author": {
+    "name": "Gauthier Huyghe",
+    "url": ""
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gauthier-huyghe/korhanola/issues"
+  },
+  "homepage": "https://github.com/gauthier-huyghe/korhanola",
+  "files": [
+    "index.js"
+  ]
+}
