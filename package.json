@@ -14,6 +14,7 @@
     "Korhanola"
   ],
   "devDependencies": {
+    "onchange": "latest"
   },
   "author": {
     "name": "Gauthier Huyghe",
