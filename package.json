@@ -1,35 +1,22 @@
 {
-  "name": "Korhanola",
-  "title": "Korhanola",
-  "version": "1.0",
-  "description": "Korhanola rules",
+  "name": "korhanola",
+  "version": "1.0.0",
+  "description": "korhanola",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gauthier Huyghe",
+  "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gauthier-huyghe/korhanola.git"
+    "url": "git+https://github.com/gauthier-huyghe/korhanola.git"
   },
   "keywords": [
-    "js",
-    "javascript",
-    "Korhanola"
+    "korhanola"
   ],
-  "devDependencies": {
-    "onchange": "latest"
-  },
-  "author": {
-    "name": "Gauthier Huyghe",
-    "url": ""
-  },
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/gauthier-huyghe/korhanola/issues"
   },
-  "homepage": "https://github.com/gauthier-huyghe/korhanola",
-  "files": [
-    "index.js"
-  ],
-  "private": true,
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  "homepage": "https://github.com/gauthier-huyghe/korhanola#readme"
 }
